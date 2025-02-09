@@ -4,6 +4,6 @@
 
 Avec la coopération de: 
 
-https://github.com/EnzoNumber7
+Enzo Philipe : https://github.com/EnzoNumber7
 
-https://github.com/Perlainpin
+Gwendale R : https://github.com/Perlainpin
